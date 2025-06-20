@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/pet/1,HTTPError('404 Client Error: Not Found for url: /pet/1'),35
